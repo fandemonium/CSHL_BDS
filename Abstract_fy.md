@@ -1,9 +1,9 @@
 Software Carpentry: Introduction to Efficient Scientific Computing in Big Data Era
 -----------------
 Fan Yang<sup>1</sup>, Jason Williams<sup>2</sup>, Greg V. Wilson<sup>3</sup>   
-1. Ecology, Evolution and Organismal Biology, Iowa State University  
+1. Department of Ecology, Evolution, and Organismal Biology, Iowa State University  
 2. DNA Learning Center, Cold Spring Harbor Laboratory   
-3. Mozilla Foundation  
+3. Software Carpentry, Mozilla Foundation  
 
 Biological science has entered the era of big data. Since the commercialization of next-generation sequencing technology, the development of computational hardware could no longer follow the rapidly increasing data analysis needs. It is also more and more apparent to scientists that efficiently utlizing computational resources is essential for generating reproducible data and collaborating with experts in other disciplines. Many conventional graphic user interfaced softwares are not sustainable for that they could not be easily integrated with big data or meet the multi-disciplinary requirements. Hence, big data analysis became the bottle necks of many biological researches. 
 
