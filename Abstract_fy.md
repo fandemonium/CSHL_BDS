@@ -1,6 +1,6 @@
 Software Carpentry: Introduction to Efficient Scientific Computing in Big Data Era
 -----------------
-Fan Yang<sup>1</sup>, Jason Williams<sup>2</sup>, Greg V. Wilson<sup>3</sup>   
+Fan Yang<sup>1</sup>, Jason Williams<sup>2</sup>, Greg Wilson<sup>3</sup>   
 1. Department of Ecology, Evolution, and Organismal Biology, Iowa State University  
 2. DNA Learning Center, Cold Spring Harbor Laboratory   
 3. Software Carpentry, Mozilla Foundation  
